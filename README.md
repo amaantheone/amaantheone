@@ -5,7 +5,6 @@ I'm Amaan from India, and I build websites. I really enjoy learning languages. Y
 
 Skills: Python / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Javascript 
 - 😄 Pronouns: he/him 
 
