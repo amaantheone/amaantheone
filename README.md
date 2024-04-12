@@ -1,19 +1,21 @@
-### Hi there 👋, I'm Amaan Abdullah
-#### Hobbyist Developer
-
-I'm Amaan from India, and I build websites. I really enjoy learning languages. You can check out my twitter at twitter.com/amaantheone.
-
-Skills: Python / JS / HTML / CSS
-
-- 🌱 I’m currently learning Javascript 
-- 😄 Pronouns: he/him 
+# 💫 About Me:
+🤟I'm Amaan from India, and I build websites. I really enjoy learning languages.<br>You can check out my twitter at twitter.com/amaantheone.
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amaantheone)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amaantheone/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/amaantheone)  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amaantheone) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/amaantheone) 
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amaantheone&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amaantheone&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amaantheone&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amaantheone&show_icons=true)  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=amaantheone)  
+---
+[![](https://visitcount.itsvg.in/api?id=amaantheone&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
