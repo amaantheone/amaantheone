@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Amaan Abdullah
 #### Frontend Developer
-![Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Amaan from India, and I build websites. I really enjoy learning languages. You can check out my twitter at twitter.com/amaantheone.
 
