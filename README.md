@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤟I'm Amaan from India, and I build websites. I really enjoy learning languages.<br>You can check out my twitter at twitter.com/amaantheone.
+🤟I'm Amaan from India, and I build websites. I really enjoy learning languages.<br>You can check out my twitter at twitter.com/amaanth3one.
 
 
 ## 🌐 Socials:
